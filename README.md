@@ -147,7 +147,7 @@ leader and founder of Broadlake Technologies.
 
 **Live Application:** [https://laxcommitcoach.com](https://laxcommitcoach.com)
 
-**For Hiring Managers:** This project showcases hands-on experience with modern 
+**For Hiring Managers:** This project showcases hands-on experience with AI assisted 
 web development, AI integration, customer success metrics, product-led growth 
 strategies, and user journey optimization—skills directly applicable to 
 enterprise customer success roles.
