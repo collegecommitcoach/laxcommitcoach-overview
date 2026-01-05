@@ -38,10 +38,11 @@ An AI-powered SaaS platform that transforms college lacrosse recruiting by helpi
 - Activity timeline with automated follow-up reminders
 
 ### Data-Driven College Matching
-- Sophisticated matching algorithm considering athletic fit, academic profile, and personal preferences
-- Preference-weighted scoring across multiple dimensions
+- Automated 5-factor fit scoring (recruiting level, academics, location, size, setting)
+- Signal-based interest detection - recognizes when schools are actively recruiting you
+- Simplified 2-rating user input (reduced from 24 fields to 2 star ratings)
 - Scholarship outlook predictions based on user profile
-- 315+ NCAA college database with comprehensive program data
+- 390+ NCAA college database with comprehensive program data
 
 ### Communication Intelligence
 - Email ingestion with MIME parsing and HTML rendering
@@ -74,6 +75,8 @@ An AI-powered SaaS platform that transforms college lacrosse recruiting by helpi
 - Streaming chat interface for real-time AI responses
 - Context-aware prompts incorporating user history and current state
 - Sentiment analysis engine processing email communications
+- Pre-computed intelligence briefings for faster, more contextual responses
+- Interest override detection (coach calls, visit invites) integrated into recommendations
 
 ### Real-Time Features
 - Supabase Realtime for live data synchronization
